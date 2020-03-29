@@ -10,7 +10,7 @@ files, it will automatically build your project and update your browser without 
 
 # Prerequisites
 1. Install Node.js
-2. Read the Gulp article to explain how to install Gulp globally
+2. Read the Gulp article to explain how to install Gulp globally i.e. npm install -g gulp on windows or sudo install -g gulp on mac
 
 # Install Instructions
 1.  Clone the repository in WebStorm
