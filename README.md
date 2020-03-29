@@ -6,7 +6,7 @@ files, it will automatically build your project and update your browser without 
 
 [Download Assignment PDF Here](BootStrapBrowserSyncGulp-Homework.pdf)
 
-[View Assignment Video Here](https://youtu.be/J9G-3uyy1Tg)
+[View Assignment Video Here](https://youtu.be/rusniDSzXGs)
 
 # Prerequisites
 1. Install Node.js
