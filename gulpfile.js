@@ -14,7 +14,8 @@ const clean = require('gulp-clean');
 const isProd = process.env.NODE_ENV === 'prod';
 
 const htmlFile = [
-    'src/*.html'
+    'src/*.html',
+
 ]
 
 function html() {
@@ -73,7 +74,7 @@ function watchFiles() {
     gulp.watch('src/**/*.scss', gulp.series(css, browserSyncReload));
     gulp.watch('src/**/*.js', gulp.series(js, browserSyncReload));
     gulp.watch('src/img/**/*.*', gulp.series(img));
-
+    gulp.watch('src/projects/**/*.html', gulp.series(html, browserSyncReload));
     return;
 }
 
