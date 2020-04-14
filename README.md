@@ -10,7 +10,7 @@ files, it will automatically build your project and update your browser without 
 #  Videos
 * [Video 1 - Introduction Project Setup](https://youtu.be/rusniDSzXGs)
 * [Video 2 - Boootstrap Tables and Layout](https://youtu.be/5vVfAyUgjg0)
-* [Video 3 - Boootstrap Carousel of Z-Layout](https://youtu.be/US2veWWX4hY )
+* [Video 3 - Boootstrap Carousel of Z-Layout](https://youtu.be/uoNYzWw5_Js)
 * [Video 4 - Bootstrap Bottom of Z-Layout](https://youtu.be/hOZb45fZYyE)
 
 
